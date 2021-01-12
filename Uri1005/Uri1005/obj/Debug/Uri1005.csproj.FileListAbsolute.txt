@@ -1,0 +1,6 @@
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpURI\Uri1005\Uri1005\bin\Debug\Uri1005.exe.config
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpURI\Uri1005\Uri1005\bin\Debug\Uri1005.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpURI\Uri1005\Uri1005\bin\Debug\Uri1005.pdb
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpURI\Uri1005\Uri1005\obj\Debug\Uri1005.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpURI\Uri1005\Uri1005\obj\Debug\Uri1005.exe
+C:\Users\mntakayama\Documents\repos\.net\clones\CSharpURI\Uri1005\Uri1005\obj\Debug\Uri1005.pdb
